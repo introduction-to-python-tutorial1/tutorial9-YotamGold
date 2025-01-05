@@ -1,2 +1,2 @@
-path: "path_to_your_model.joblib"
-features: ['feature_1',  'feature_2'] # You are allowed to add only two features.
+path: "מודל שיעור פייתון 9.joblib"
+features: ['bill_depth_mm', 'body_mass_g'] # You are allowed to add only two features.
