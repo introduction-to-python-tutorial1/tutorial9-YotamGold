@@ -1,2 +1,2 @@
-path: "מודל שיעור פייתון 9.joblib"
+path: "Python_class9.joblib"
 features: ['bill_depth_mm', 'body_mass_g'] # You are allowed to add only two features.
